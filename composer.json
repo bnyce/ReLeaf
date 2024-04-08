@@ -10,12 +10,15 @@
         }
     ],
     "require": {
+        "civicrm/civicrm-core": "~5.37",
+        "civicrm/civicrm-drupal-8": "~5.37",
         "composer/installers": "^1.9",
         "cweagans/composer-patches": "^1.7",
         "drupal/asset_injector": "^2.10",
         "drupal/ckeditor": "^1.0",
         "drupal/color": "^1.0",
         "drupal/commerce_recurring": "^1.0@RC",
+        "drupal/commerce_reports": "^1.0@RC",
         "drupal/commerce_stripe": "^1.0",
         "drupal/config_perms": "^2.0",
         "drupal/core": "^10.2",
@@ -29,6 +32,7 @@
         "drupal/imagemagick": "^3.4",
         "drupal/key_auth": "^2.0",
         "drupal/mailsystem": "^4.4",
+        "drupal/oauth2_server": "^2.0@beta",
         "drupal/openai": "^1.0@alpha",
         "drupal/pathauto": "^1.11",
         "drupal/rdf": "^2.1",
@@ -94,7 +98,10 @@
             "drupal/core-composer-scaffold": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "php-http/discovery": true,
-            "phpstan/extension-installer": true
+            "phpstan/extension-installer": true,
+            "civicrm/composer-downloads-plugin": true,
+            "civicrm/composer-compile-plugin": true,
+            "civicrm/civicrm-asset-plugin": true
         }
     }
 }
