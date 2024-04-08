@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "civicrm/civicrm-core": "~5.37",
-        "civicrm/civicrm-drupal-8": "~5.37",
+        "civicrm/civicrm-core": "~5.35",
+        "civicrm/civicrm-drupal-8": "~5.35",
         "composer/installers": "^1.9",
         "cweagans/composer-patches": "^1.7",
         "drupal/asset_injector": "^2.10",
@@ -56,6 +56,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
+        "compile-mode": "all",
         "drupal-scaffold": {
             "locations": {
                 "web-root": "./web"
