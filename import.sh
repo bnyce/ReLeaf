@@ -1,1 +1,1 @@
-ddev import-db --file==db.sql.gz
+ddev import-db --file=db.sql.gz
