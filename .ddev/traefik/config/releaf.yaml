@@ -1,0 +1,86 @@
+#ddev-generated
+
+http:
+  routers:
+    
+    
+    releaf-web-80-http:
+      
+      rule: HostRegexp(`releaf.ddev.site`)
+      
+      service: "releaf-web-80-http"
+      tls: false
+      entrypoints:
+        - http-80
+    
+    
+    releaf-web-8025-http:
+      
+      rule: HostRegexp(`releaf.ddev.site`)
+      
+      service: "releaf-web-8025-http"
+      tls: false
+      entrypoints:
+        - http-8025
+    
+    
+    
+    
+    
+    
+    releaf-web-80-https:
+      
+      rule: HostRegexp(`releaf.ddev.site`)
+      
+      service: "releaf-web-80-https"
+      
+      tls: true
+      
+      entrypoints:
+        - http-443
+    
+    
+    releaf-web-8025-https:
+      
+      rule: HostRegexp(`releaf.ddev.site`)
+      
+      service: "releaf-web-8025-https"
+      
+      tls: true
+      
+      entrypoints:
+        - http-8026
+    
+    
+
+  services:
+    
+    releaf-web-80-http:
+      loadbalancer:
+        servers:
+          - url: http://ddev-releaf-web:80
+    
+    releaf-web-8025-http:
+      loadbalancer:
+        servers:
+          - url: http://ddev-releaf-web:8025
+    
+    releaf-web-80-https:
+    
+      loadbalancer:
+        servers:
+          - url: http://ddev-releaf-web:80
+    
+    releaf-web-8025-https:
+    
+      loadbalancer:
+        servers:
+          - url: http://ddev-releaf-web:8025
+    
+
+
+tls:
+  certificates:
+    - certFile: /mnt/ddev-global-cache/traefik/certs/releaf.crt
+      keyFile: /mnt/ddev-global-cache/traefik/certs/releaf.key
+
