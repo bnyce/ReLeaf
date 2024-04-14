@@ -1,22 +1,22 @@
-location_name,geo
-"Hillcrest House","30.279918609272, -97.67589555"
-Outdoor,
-"Back Yard",
-"Front Yard",
-"Hillcrest Front North","30.279976516292, -97.675849952447"
-"Driveway Planter",
-"South Side",
-Flowerbed,
-"Back of House South",
-"Raised Bed",
-"West Side",
-"Raised Bed North","30.279967251171, -97.676161088692"
-"Fence Line North",
-"South Side",
-"Fence Line South",
-"Behind the Raised Bed",
-Shed,
-"Ty Davidson DDS Office","30.30123290928, -97.7422642"
-"Lower Middle Yard","30.279937139522, -97.676147677647"
-"Jain Lane Trailhead","30.261376587207, -97.684405864576"
-"Triangular Flowerbed","30.279935981382, -97.676084645736"
+location_name,lat,lng
+"Hillcrest House",30.279918609272,-97.67589555
+Outdoor,,
+"Back Yard",,
+"Front Yard",,
+"Hillcrest Front North",30.279976516292,-97.675849952447
+"Driveway Planter",,
+"South Side",,
+Flowerbed,,
+"Back of House South",,
+"Raised Bed",,
+"West Side",,
+"Raised Bed North",30.279967251171,-97.676161088692
+"Fence Line North",,
+"South Side",,
+"Fence Line South",,
+"Behind the Raised Bed",,
+Shed,,
+"Ty Davidson DDS Office",30.30123290928,-97.7422642
+"Lower Middle Yard",30.279937139522,-97.676147677647
+"Jain Lane Trailhead",30.261376587207,-97.684405864576
+"Triangular Flowerbed",30.279935981382,-97.676084645736
