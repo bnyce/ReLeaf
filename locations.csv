@@ -1,22 +1,22 @@
 location_name,parent,lat,lng
-"Hillcrest House",,30.279918609272,-97.67589555
-Outdoor,"Hillcrest House",,
-"Back Yard",Outdoor,,
-"Front Yard",Outdoor,,
-"Hillcrest Front North","Front Yard",30.279976516292,-97.675849952447
-"Driveway Planter","Hillcrest Front North",,
-"South Side","Front Yard",,
-Flowerbed,"South Side",,
-"Back of House South","Back Yard",,
-"Raised Bed","Back Yard",,
-"West Side","Raised Bed",,
-"Raised Bed North","Raised Bed",30.279967251171,-97.676161088692
-"Fence Line North","Back Yard",,
-"South Side","Raised Bed",,
-"Fence Line South","Back Yard",,
-"Behind the Raised Bed","Back Yard",,
-Shed,"Back Yard",,
-"Ty Davidson DDS Office",,30.30123290928,-97.7422642
-"Lower Middle Yard","Back Yard",30.279937139522,-97.676147677647
-"Jain Lane Trailhead",,30.261376587207,-97.684405864576
-"Triangular Flowerbed","Back Yard",30.279935981382,-97.676084645736
+Hillcrest House,,30.279918609272,-97.67589555
+Outdoor,Hillcrest House,30.279918609272,-97.67589555
+Back Yard,Outdoor,30.279918609272,-97.67589555
+Front Yard,Outdoor,30.279918609272,-97.67589555
+Hillcrest Front North,Front Yard,30.279976516292,-97.675849952447
+Driveway Planter,Hillcrest Front North,30.279976516292,-97.675849952447
+South Side,Front Yard,30.279918609272,-97.67589555
+Flowerbed,South Side,30.279918609272,-97.67589555
+Back of House South,Back Yard,30.279918609272,-97.67589555
+Raised Bed,Back Yard,30.279918609272,-97.67589555
+West Side,Raised Bed,30.279918609272,-97.67589555
+Raised Bed North,Raised Bed,30.279967251171,-97.676161088692
+Fence Line North,Back Yard,30.279918609272,-97.67589555
+South Side,Raised Bed,30.279918609272,-97.67589555
+Fence Line South,Back Yard,30.279918609272,-97.67589555
+Behind the Raised Bed,Back Yard,30.279918609272,-97.67589555
+Shed,Back Yard,30.279918609272,-97.67589555
+Ty Davidson DDS Office,,30.30123290928,-97.7422642
+Lower Middle Yard,Back Yard,30.279937139522,-97.676147677647
+Jain Lane Trailhead,,30.261376587207,-97.684405864576
+Triangular Flowerbed,Back Yard,30.279935981382,-97.676084645736
