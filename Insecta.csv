@@ -1,11 +1,11 @@
-from,to,pulse,pulse_date
-Insecta,Driveway Planter,170.0,2024-04-13T11:35:10-0500
-Insecta,Flowerbed,208.89,2024-04-13T14:39:47-0500
-Insecta,Mollusca,208.36,2024-04-13T20:59:11-0500
-Insecta,Back Yard,21.14,2024-04-14T13:33:37-0500
-Insecta,Insecta,80.75,2024-04-17T15:40:34-0500
-Insecta,Outdoor,47.56,2024-04-17T20:47:06-0500
-Insecta,Amphibia,189.18,2024-04-18T09:22:59-0500
-Insecta,Animalia,91.6,2024-04-18T10:38:23-0500
-Insecta,Arachnida,118.15,2024-04-19T13:40:01-0500
-Insecta,Triangular Flowerbed,56.36,2024-04-19T22:36:41-0500
+from,to,pulse_type,pulse,pulse_date
+Insecta,Driveway Planter,Pollination Services,170.0,2024-04-13T11:35:10-0500
+Insecta,Flowerbed,Pollination Services,208.89,2024-04-13T14:39:47-0500
+Insecta,Mollusca,Predator-Prey Balance,208.36,2024-04-13T20:59:11-0500
+Insecta,Back Yard,Biodiversity Support,21.14,2024-04-14T13:33:37-0500
+Insecta,Insecta,Genetic Diversity Management,80.75,2024-04-17T15:40:34-0500
+Insecta,Outdoor,Environmental Enrichment,47.56,2024-04-17T20:47:06-0500
+Insecta,Amphibia,Predator-Prey Balance,189.18,2024-04-18T09:22:59-0500
+Insecta,Animalia,Biodiversity Support,91.6,2024-04-18T10:38:23-0500
+Insecta,Arachnida,Predator-Prey Balance,118.15,2024-04-19T13:40:01-0500
+Insecta,Triangular Flowerbed,Pollination Services,56.36,2024-04-19T22:36:41-0500
