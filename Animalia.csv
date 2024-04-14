@@ -1,11 +1,11 @@
-from,to,pulse,pulse_date
-Animalia,Insecta,118.53,2024-04-12T12:38:03-0500
-Animalia,Arachnida,197.34,2024-04-12T21:10:30-0500
-Animalia,Plantae,36.15,2024-04-14T04:15:33-0500
-Animalia,Hillcrest Front North,89.78,2024-04-14T12:33:06-0500
-Animalia,Fence Line South,191.65,2024-04-15T00:49:46-0500
-Animalia,Arachnida,116.31,2024-04-17T02:48:24-0500
-Animalia,Back Yard,73.62,2024-04-17T11:59:40-0500
-Animalia,West Side,57.19,2024-04-18T23:25:58-0500
-Animalia,Aves,200.83,2024-04-21T01:43:24-0500
-Animalia,Flowerbed,120.05,2024-04-21T08:03:58-0500
+from,to,pulse_type,pulse,pulse_date,vitals
+Animalia,Insecta,Predation,118.53,2024-04-12T12:38:03-0500,-118.53
+Animalia,Arachnida,Predation,197.34,2024-04-12T21:10:30-0500,-315.87
+Animalia,Plantae,Herbivory,36.15,2024-04-14T04:15:33-0500,-352.02
+Animalia,Hillcrest Front North,Habitat Utilization,89.78,2024-04-14T12:33:06-0500,-441.8
+Animalia,Fence Line South,Habitat Utilization,191.65,2024-04-15T00:49:46-0500,-633.45
+Animalia,Arachnida,Predation,116.31,2024-04-17T02:48:24-0500,-749.76
+Animalia,Back Yard,Habitat Utilization,73.62,2024-04-17T11:59:40-0500,-762.11
+Animalia,West Side,Habitat Utilization,57.19,2024-04-18T23:25:58-0500,-727.7
+Animalia,Aves,Predation,200.83,2024-04-21T01:43:24-0500,-928.53
+Animalia,Flowerbed,Habitat Utilization,120.05,2024-04-21T08:03:58-0500,-1048.58
