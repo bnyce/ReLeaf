@@ -1,11 +1,11 @@
-from,to,pulse,pulse_date
-Fungi,Amphibia,56.28,2024-04-13T18:04:19-0500
-Fungi,Shed,44.7,2024-04-13T18:37:20-0500
-Fungi,Raised Bed,79.64,2024-04-14T17:51:45-0500
-Fungi,Jain Lane Trailhead,112.52,2024-04-15T18:43:31-0500
-Fungi,Back of House South,193.59,2024-04-16T21:49:11-0500
-Fungi,Back of House South,98.39,2024-04-18T07:24:29-0500
-Fungi,Back Yard,44.2,2024-04-18T11:30:44-0500
-Fungi,Arachnida,107.86,2024-04-18T20:38:01-0500
-Fungi,Insecta,191.1,2024-04-20T10:17:50-0500
-Fungi,Jain Lane Trailhead,78.4,2024-04-20T19:04:51-0500
+from,to,pulse_type,pulse,pulse_date,vitals
+Fungi,Amphibia,Disease Regulation,56.28,2024-04-13T18:04:19-0500,-56.28
+Fungi,Shed,Structural Biodegradation,44.70,2024-04-13T18:37:20-0500,-100.98
+Fungi,Raised Bed,Soil Fertility Enhancement,79.64,2024-04-14T17:51:45-0500,-180.62
+Fungi,Jain Lane Trailhead,Biodiversity Support,112.52,2024-04-15T18:43:31-0500,-293.14
+Fungi,Back of House South,Microclimate Regulation,193.59,2024-04-16T21:49:11-0500,-486.73
+Fungi,Back of House South,Microclimate Regulation,98.39,2024-04-18T07:24:29-0500,-585.12
+Fungi,Back Yard,Landscape Health Promotion,44.20,2024-04-18T11:30:44-0500,-571.93
+Fungi,Arachnida,Symbiotic Relationships,107.86,2024-04-18T20:38:01-0500,-679.79
+Fungi,Insecta,Symbiotic Relationships,191.10,2024-04-20T10:17:50-0500,-659.40
+Fungi,Jain Lane Trailhead,Biodiversity Support,78.40,2024-04-20T19:04:51-0500,-737.80
