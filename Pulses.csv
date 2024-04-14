@@ -1,25 +1,25 @@
-pulse,from,to
-Pollination Services,Insecta,Plantae
-Nutrient Recycling,Fungi,Plantae
-Seed Dispersal,Aves,Plantae
-Carbon Sequestration,Plantae,Hillcrest House
-Water Purification,Plantae,Hillcrest House
-Oxygen Production,Plantae,Hillcrest House
-Heat Regulation,Plantae,Hillcrest House
-Erosion Control,Plantae,Hillcrest House
-Habitat Provision,Hillcrest House,Plantae
-Cultural Services,Back Yard,Hillcrest House
-Genetic Diversity Management,Reptilia,Reptilia
-Habitat Enhancement,Reptilia,Lower Middle Yard
-Pest Mitigation,Reptilia,Fence Line North
-Spore Dispersal,Reptilia,Fungi
-Predator-Prey Balance,Reptilia,Mollusca
-Environmental Enrichment,Reptilia,Outdoor
-Disease Regulation,Fungi,Amphibia
-Structural Biodegradation,Fungi,Shed
-Soil Fertility Enhancement,Fungi,Raised Bed
-Biodiversity Support,Fungi,Jain Lane Trailhead
-Microclimate Regulation,Fungi,Back of House South
-Organic Matter Cycling,Mollusca,Fungi
-Landscape Health Promotion,Fungi,Back Yard
-Symbiotic Relationships,Fungi,Arachnida
+pulse_type
+Pollination Services
+Nutrient Recycling
+Seed Dispersal
+Carbon Sequestration
+Water Purification
+Oxygen Production
+Heat Regulation
+Erosion Control
+Habitat Provision
+Cultural Services
+Genetic Diversity Management
+Habitat Enhancement
+Pest Mitigation
+Spore Dispersal
+Predator-Prey Balance
+Environmental Enrichment
+Disease Regulation
+Structural Biodegradation
+Soil Fertility Enhancement
+Biodiversity Support
+Microclimate Regulation
+Organic Matter Cycling
+Landscape Health Promotion
+Symbiotic Relationships
