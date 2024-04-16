@@ -1,0 +1,14 @@
+diff --git a/modules/contrib/markdown/src/Plugin/Markdown/CommonMark/CommonMark.php b/modules/contrib/markdown/src/Plugin/Markdown/CommonMark/CommonMark.php
+index f9e1d1c..1c3e0d5 100644
+--- a/modules/contrib/markdown/src/Plugin/Markdown/CommonMark/CommonMark.php
++++ b/modules/contrib/markdown/src/Plugin/Markdown/CommonMark/CommonMark.php
+@@ -292,6 +292,10 @@ class CommonMark extends BaseExtensibleParser implements AllowedHtmlInterface {
+    *   The modified string.
+    */
+   public static function addcslashes($string, $charlist = "\n\r\t") {
++    if ($string === null) {
++      return '';
++    }
++
+     return \addcslashes($string, $charlist);
+   }

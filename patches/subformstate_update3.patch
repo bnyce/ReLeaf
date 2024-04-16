@@ -1,0 +1,24 @@
+--- web/modules/contrib/markdown/src/BcSupport/SubformState.php	2024-04-15 13:48:18
++++ web/modules/contrib/markdown/src/BcSupport/SubformState2.php	2024-04-15 13:40:38
+@@ -158,4 +158,19 @@
+     return $this;
+   }
+ 
+-}
++  /**
++   * {@inheritdoc}
++   */
++  public function setIgnoreDestination(bool $status = TRUE) {
++    parent::setIgnoreDestination($status);
++    return $this;
++  }
++
++  /**
++   * {@inheritdoc}
++   */
++  public function getIgnoreDestination(): bool {
++    return parent::getIgnoreDestination();
++  }
++
++} 
+\ No newline at end of file

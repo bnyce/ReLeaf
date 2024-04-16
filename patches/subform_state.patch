@@ -1,0 +1,24 @@
+diff --git a/web/modules/contrib/markdown/src/BcSupport/SubformState.php b/web/modules/contrib/markdown/src/BcSupport/SubformState.php
+index e85a464..1f6c580 100644
+--- a/web/modules/contrib/markdown/src/BcSupport/SubformState.php
++++ b/web/modules/contrib/markdown/src/BcSupport/SubformState.php
+@@ -158,4 +158,19 @@ public function setErrorByName($name, $message = '') {
+     return $this;
+   }
+
++  /**
++   * {@inheritdoc}
++   */
++  public function setIgnoreDestination(bool $status = TRUE) {
++    parent::setIgnoreDestination($status);
++    return $this;
++  }
++
++  /**
++   * {@inheritdoc}
++   */
++  public function getIgnoreDestination(): bool {
++    return parent::getIgnoreDestination();
++  }
++
+ }
