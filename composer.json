@@ -43,9 +43,10 @@
         "drupal/openapi_ui": "^1.0@RC",
         "drupal/openapi_ui_swagger": "^1.0",
         "drupal/pathauto": "^1.11",
-        "drupal/rdf": "^2.1",
+        "drupal/rdf": "^2",
         "drupal/redirect": "^1.8",
         "drupal/rules": "^3.0@alpha",
+        "drupal/schema_metatag": "^3",
         "drupal/sendgrid_integration": "^2.2",
         "drupal/simple_sitemap": "^4.1",
         "drupal/smtp": "^1.2",
@@ -57,7 +58,7 @@
         "drupal/views_conditional": "^1.9",
         "drupal/views_data_export": "^1.4",
         "drupal/views_simple_math_field": "^3.0",
-        "drush/drush": "^11",
+        "drush/drush": "^11.6",
         "league/commonmark": "^1"
     },
     "require-dev": {
